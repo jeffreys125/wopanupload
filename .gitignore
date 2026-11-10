@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# 本地凭证（切勿提交）
+.wopan.json
+wopan.json
+.env
+*.token
+*.key
+
+# 日志与临时文件
+*.log
+*.tmp
+.DS_Store
+
+# 编辑器
+.idea/
+.vscode/
